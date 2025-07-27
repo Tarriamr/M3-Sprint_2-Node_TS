@@ -1,0 +1,16 @@
+[
+  {
+    "id": "529a2dd6-6ff3-432e-8df0-c7583bab9bc4",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "price": 75000,
+    "ownerId": "f8a2d441-8a59-4542-9866-45554c977121"
+  },
+  {
+    "id": "aa562cae-4da6-415d-a93d-9be667896494",
+    "brand": "Kia",
+    "model": "Niro",
+    "price": 125000,
+    "ownerId": null
+  }
+]
